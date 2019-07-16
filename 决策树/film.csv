@@ -1,0 +1,9 @@
+id,type,country,gross,watch
+1,anime,Japan,low,yes
+2,science,America,low,yes
+3,anime,America,low,yes
+4,acation,America,high,yes
+5,acation,China,high,yes
+6,anime,China,low,yes
+7,science,France,low,no
+8,acation,China,low,no
